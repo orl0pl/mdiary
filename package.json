@@ -1,0 +1,19 @@
+{
+  "name": "diarymd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expo": "^47.0.9"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3",
+    "@types/react": "~18.0.24",
+    "@types/react-native": "~0.70.6"
+  }
+}
